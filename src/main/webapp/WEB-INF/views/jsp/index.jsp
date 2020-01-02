@@ -40,8 +40,9 @@
 
 	<div class="row">
 		<div class="col-md-4">
-			<h2>Heading</h2>
+			<h2>DevOps student</h2>
 			<p>Bishnu Prasad Nayak</p>
+			<p>mobile no 9776103601</p>
 			<p>
 				<a class="btn btn-default" href="#" role="button">Updated To Test Tomcat</a>
 			</p>
