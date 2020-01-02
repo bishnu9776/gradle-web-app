@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-4">
 			<h2>Heading</h2>
-			<p>ABC</p>
+			<p>Bishnu Prasad Nayak</p>
 			<p>
 				<a class="btn btn-default" href="#" role="button">Updated To Test Tomcat</a>
 			</p>
 		</div>
 		<div class="col-md-4">
 			<h2>Heading</h2>
-			<p>ABC</p>
+			<p>Rakesh Ojha</p>
 			<p>
 				<a class="btn btn-default" href="#" role="button">View details</a>
 			</p>
@@ -65,7 +65,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2018</p>
+		<p>&copy; Mithun Technologies 2020</p>
 	</footer>
 </div>
 
